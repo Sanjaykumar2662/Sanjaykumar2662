@@ -2,7 +2,7 @@
 
 <img align = "Left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=Sanjaykumar2662&show_icons=true&theme=radical"/>
 
-<img align = "Left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaykumar2662&layout=pie"/>
+<img align = "Left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaykumar2662&layout=compact"/>
 
 <img align = "Left" src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
