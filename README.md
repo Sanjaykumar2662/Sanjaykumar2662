@@ -1,10 +1,20 @@
 # Hey There, I'm Sanjaykumar 👋
-<div>
-<img align = "Left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=Sanjaykumar2662&show_icons=true&theme=radical"/>
-<img align = "Left" width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaykumar2662&layout=compact"/>
-</div><br>
 
-# Other Profiles 👨‍🎓 
+<img align = "Left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=Sanjaykumar2662&show_icons=true&theme=radical"/>
+
+<img align = "Left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjaykumar2662&layout=compact"/>
+
+# About ✨
+
+    👨‍🎓 Student at Government College Of Engineering, Tirunelveli<br>
+    
+    💻 Graduated in 2024 as a Computer Scinence and Engineer
+
+    🎙️ Placement Representative, Public Speaker🗣️, VolleyBall Player 🏐.
+    
+    🦚 Intrested in learning Python 🐍, Java, ML Concepts
+
+# Other Profiles 👨‍💻 
 
 <a href="https://www.hackerrank.com/profile/sanjaykumar61121">
     <img align="left" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
