@@ -12,7 +12,7 @@
 
     🎙️ Placement Representative, Public Speaker🗣️, VolleyBall Player 🏐.
     
-    🦚 Intrested in learning Python 🐍, Java, ML Concepts
+    🦚 Intrested in learning Python 🐍, Django, Flutter, SQL and Java.
 
 # Other Profiles 👨‍💻 
 
