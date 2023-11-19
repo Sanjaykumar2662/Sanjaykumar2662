@@ -6,7 +6,7 @@
 
 # About ✨
 
-    👨‍🎓 Student at Government College Of Engineering, Tirunelveli<br>
+    👨‍🎓 Student at Government College Of Engineering, Tirunelveli
     
     💻 Graduated in 2024 as a Computer Scinence and Engineer
 
